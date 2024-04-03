@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.qa.LoginFormTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-17T21:56:14" hostname="a-kachina" time="0.157">
+  <properties/>
+  <testcase name="checkOpeningLoginForm" classname="com.qa.LoginFormTest" time="0.157"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[мар. 18, 2024 12:56:10 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 122
+мар. 18, 2024 12:56:10 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 122.0.6261.129. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.12.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>
